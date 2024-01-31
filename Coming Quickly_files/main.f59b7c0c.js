@@ -18743,14 +18743,6 @@
                             children: [(0, m.jsx)("div", {
                                 className: v,
                                 children: (0, m.jsx)("a", {
-                                    href: "https://github.com/martin-dutch",
-                                    target: "_blank",
-                                    rel: "noopener noreferrer",
-                                    children: (0, m.jsx)(ke, {})
-                                })
-                            }), (0, m.jsx)("div", {
-                                className: v,
-                                children: (0, m.jsx)("a", {
                                     href: "https://www.linkedin.com/in/real-martin-van-der-heijden/",
                                     target: "_blank",
                                     rel: "noopener noreferrer",
